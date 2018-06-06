@@ -1,0 +1,44 @@
+header {
+    background: #ffffff;
+    border-color: #cccccc;
+}
+
+logo {
+    border: 8%;
+    float: left;
+    border: 10%;
+    background: #ffffff;
+    border-color:  #cccccc;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.header-right {
+    float: right;
+    border: 8%;
+    border: 10%;
+    background: #ffffff;
+    border-color:  #cccccc;
+}
+
+body {
+
+    background: #ffffff;
+    border-color: #cccccc;
+}
+
+h1 {
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+footer {
+    background: #666666;
+    padding: 20px;
+}
