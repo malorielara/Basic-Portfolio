@@ -30,7 +30,6 @@ logo {
 }
 
 body {
-
     background: #ffffff;
     border-color: #cccccc;
 }
@@ -40,18 +39,25 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-image {
-    height: 100px;
-    widows: 100px;
+img {
+    height: 296px;
+    width: 296px;
     float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
 }
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+    text-align: left;
+    float: clear;
 }
 
-footer {
+#footer {
     background: #666666;
     padding: 20px;
+    position: absolute;
+    clear: both;
+    bottom: 0;
+    width: 50%;
 }
