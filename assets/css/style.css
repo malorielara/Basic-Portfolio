@@ -32,8 +32,6 @@ h1 {
 }
 
 img {
-    height: 296px;
-    width: 296px;
     float: left;
     margin-right: 10px;
     margin-bottom: 5px;
@@ -63,11 +61,17 @@ portfolio {
 }
 
 image1 {
+    padding-right: 10px;
+    width: 330px;
     float: left;
+
 }
 
 image2 {
-    float: right;
+    padding-left: 0px;
+    width: 330px;
+    float: left;
+
 }
 
 container {
