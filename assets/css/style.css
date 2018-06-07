@@ -3,9 +3,9 @@ body {
     height: 380px;
     margin-right: 25%;
     margin-left: 25%;
+    padding-top: 10px;
     background: #ffffff;
     border-color: #cccccc;    
-    background-image: "vertical-waves.jpg";
 }
 header {
     background: #ffffff;
@@ -23,7 +23,6 @@ header {
     position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;    
-    padding-bottom: 20px;
 }
 
 #extra1{
@@ -59,6 +58,7 @@ header {
 h1 {
     font-size: 38px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
 }
 
 img {
@@ -78,7 +78,8 @@ p {
     position: absolute;
     clear: both;
     bottom: 0;
-    width: 50%;
+    width: 100%;
+    left: 0px;
 }
 
 portfolio {
@@ -88,10 +89,11 @@ portfolio {
     margin-left: 25%;
     background: #ffffff;
     border-color: #cccccc;
+    border-radius: 5px;
 }
 
 image1 {
-    padding-right: 10px;
+    padding-right: 1px;
     width: 330px;
     float: left;
 
@@ -100,8 +102,7 @@ image1 {
 image2 {
     padding-left: 0px;
     width: 330px;
-    float: left;
-
+    float: right;
 }
 
 container {
@@ -109,6 +110,9 @@ container {
     height: 380px;
     margin-right: 25%;
     margin-left: 25%;
+    padding-left: 33%;
+    padding-right: 33%;
+    padding-top: 20px;
     background: #ffffff;
     border-color: #cccccc;
 }
