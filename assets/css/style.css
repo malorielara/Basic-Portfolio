@@ -1,6 +1,7 @@
 header {
     background: #ffffff;
     border-color: #cccccc;
+    border: 960px;
 }
 
 logo {
@@ -33,9 +34,13 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+image {
+    float:left;
+}
+
 p {
     font-family: 'Times New Roman', Times, serif;
-    
+
 }
 
 footer {
