@@ -4,26 +4,56 @@ body {
     margin-right: 25%;
     margin-left: 25%;
     background: #ffffff;
-    border-color: #cccccc;
+    border-color: #cccccc;    
+    background-image: "vertical-waves.jpg";
 }
 header {
     background: #ffffff;
     border-color: #cccccc;
     border: 960px;
     position: absolute;
-
+    padding-left: 60%;
 }
 
 #logo {
     border: 8%;
     float: left;
-    border: 10%;
-    background: #ffffff;
+    background: lightblue;
     border-color:  #cccccc;
     position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;    
-    padding-right: 55%;
+    padding-bottom: 20px;
+}
+
+#extra1{
+    float: left;
+    padding-left: 52%;
+    border-color:  #cccccc;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;  
+    padding-bottom: 20px;
+}
+
+#extra2 {
+    float: left;
+    padding-left: 10px;
+    border-color:  #cccccc;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;  
+    padding-bottom: 20px;
+}
+
+#extra3 {
+    float: left;
+    padding-left: 10px;
+    border-color:  #cccccc;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;  
+    padding-bottom: 20px;
 }
 
 h1 {
